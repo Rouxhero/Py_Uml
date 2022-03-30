@@ -1,6 +1,6 @@
 
 ## Goal of the extension
-
+<img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/Rouxhero/Py_Uml/CI/main">
 ---
 
 This extension can generate and preview the UML of a portion of code or a file or a directory
